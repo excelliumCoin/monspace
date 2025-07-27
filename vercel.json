@@ -8,10 +8,5 @@
     "app/api/**/*.js": {
       "maxDuration": 30
     }
-  },
-  "env": {
-    "NEXT_PUBLIC_MULTISYNQ_API_KEY": "@multisynq-api-key",
-    "NEXT_PUBLIC_GAME_CONTRACT_ADDRESS": "@game-contract-address",
-    "NEXT_PUBLIC_PAYMENT_ADDRESS": "@payment-address"
   }
 }
